@@ -7,7 +7,7 @@ void add (int x,int y){
 
 }
 void display(){
-    cout<<"The sum of two number is"<<" "<<a+b<<endl;
+    cout<<"The sum A and B is"<<" "<<a+b<<endl;
 }
 
 int main(){
